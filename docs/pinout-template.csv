@@ -1,0 +1,7 @@
+Connector,Pin,Signal,Direction,Voltage,Notes
+J1,1,VBAT,IN,12V,
+J1,2,GND,PWR,0V,
+J1,3,IN_CRANK,IN,0-5V or VR,
+J1,4,IN_CAM,IN,0-5V,
+J1,5,OUT_INJ1,OUT,12V low-side,
+J1,6,OUT_IGN1,OUT,Logic/driver,

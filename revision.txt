@@ -5,7 +5,7 @@ BOARD_SUFFIX=mini
 BOARD_REVISION=a
 
 # Only used by rendered previews.
-BOARD_PCB_OFFSET=0,596
+BOARD_PCB_OFFSET=0,0
 
 # Optional: set 2 or 4 for frame export hints
 # BOARD_LAYERS=4

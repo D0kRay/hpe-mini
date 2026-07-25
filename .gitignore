@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+
+# KiCad autosave/backup/temp
+*.kicad_prl
+*-bak
+*.bak
+*.tmp
+*.lck
+~$*
+
+# KiCad generated outputs
+*.gbr
+*.drl
+*.d356
+*.pos
+*.rpt
+*.step
+*.stp
+*.wrl
+*.svg
+
+# Python/cache
+__pycache__/
+*.pyc

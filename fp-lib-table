@@ -13,6 +13,7 @@
   (lib (name "hellen-one-wbo-0.3")(type "KiCad")(uri "${KIPRJMOD}/hellen-one/modules/wbo/0.3")(options "")(descr "Hellen-One WBO Module"))
   (lib (name "hellen-one-dinput4-0.1")(type "KiCad")(uri "${KIPRJMOD}/hellen-one/modules/dinput4/0.1")(options "")(descr "Hellen-One Digital Inputs Module"))
   (lib (name "hellen-one-vr-discrete-0.1")(type "KiCad")(uri "${KIPRJMOD}/hellen-one/modules/vr-discrete/0.1")(options "")(descr "Hellen-One VR discrete Module"))
+  (lib (name "hellen-one-uaefi-0.2")(type "KiCad")(uri "${KIPRJMOD}/hellen-one/modules/uaefi/0.2")(options "")(descr "Hellen-One UAEFI Module"))
   (lib (name "hpe-mini")(type "KiCad")(uri "${KIPRJMOD}")(options "")(descr "hpe-mini 2-channel"))
   (lib (name "hellen-one-mega-mcu100-0.3")(type "KiCad")(uri "${KIPRJMOD}/hellen-one/modules/mega-mcu100/0.3")(options "")(descr ""))
   (lib (name "hellen-one-mega-mcu144-0.5")(type "KiCad")(uri "${KIPRJMOD}/hellen-one/modules/mega-mcu144/0.5")(options "")(descr ""))

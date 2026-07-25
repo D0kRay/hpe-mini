@@ -1,0 +1,13 @@
+(fp_lib_table
+  (lib (name "rusefi_lib")(type "KiCad")(uri "${KIPRJMOD}/kicad-libraries/rusefi_lib.pretty")(options "")(descr "rusEFI shared footprints"))
+  (lib (name "hellen-one-common")(type "KiCad")(uri "${KIPRJMOD}/hellen-one/kicad/footprints")(options "")(descr "Hellen One common footprints"))
+  (lib (name "hellen-one-mega-mcu144-0.7")(type "KiCad")(uri "${KIPRJMOD}/hellen-one/modules/mega-mcu144/0.7")(options "")(descr "Hellen One MEGA MCU144"))
+  (lib (name "hellen-one-mega-mcu100-0.3")(type "KiCad")(uri "${KIPRJMOD}/hellen-one/modules/mega-mcu100/0.3")(options "")(descr "Hellen One MEGA MCU100"))
+  (lib (name "hellen-one-power_12and5V-0.3")(type "KiCad")(uri "${KIPRJMOD}/hellen-one/modules/power_12and5V/0.3")(options "")(descr "Hellen One power 12 and 5V"))
+  (lib (name "hellen-one-vr-discrete-0.2")(type "KiCad")(uri "${KIPRJMOD}/hellen-one/modules/vr-discrete/0.2")(options "")(descr "Hellen One VR discrete"))
+  (lib (name "hellen-one-output-0.3")(type "KiCad")(uri "${KIPRJMOD}/hellen-one/modules/output/0.3")(options "")(descr "Hellen One output module"))
+  (lib (name "hellen-one-mcz33810-0.1")(type "KiCad")(uri "${KIPRJMOD}/hellen-one/modules/mcz33810/0.1")(options "")(descr "Hellen One injector/ignition driver"))
+  (lib (name "hellen-one-can-0.1")(type "KiCad")(uri "${KIPRJMOD}/hellen-one/modules/can/0.1")(options "")(descr "Hellen One CAN"))
+  (lib (name "hellen-one-lin-0.1")(type "KiCad")(uri "${KIPRJMOD}/hellen-one/modules/lin/0.1")(options "")(descr "Hellen One LIN"))
+  (lib (name "hpe-mini-local")(type "KiCad")(uri "${KIPRJMOD}")(options "")(descr "Local project footprints"))
+)

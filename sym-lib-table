@@ -1,0 +1,12 @@
+(sym_lib_table
+  (lib (name "hellen-one-common")(type "KiCad")(uri "${KIPRJMOD}/hellen-one/kicad/hellen-one-common.kicad_sym")(options "")(descr "Hellen-One common symbols"))
+  (lib (name "mega-mcu144-0.7")(type "KiCad")(uri "${KIPRJMOD}/hellen-one/modules/mega-mcu144/0.7/mega-mcu144.kicad_sym")(options "")(descr "Hellen One MEGA MCU144"))
+  (lib (name "mega-mcu100-0.3")(type "KiCad")(uri "${KIPRJMOD}/hellen-one/modules/mega-mcu100/0.3/mega-mcu100.kicad_sym")(options "")(descr "Hellen One MEGA MCU100"))
+  (lib (name "power_12and5V-0.3")(type "KiCad")(uri "${KIPRJMOD}/hellen-one/modules/power_12and5V/0.3/power_12and5V.kicad_sym")(options "")(descr "Hellen One power 12 and 5V"))
+  (lib (name "vr-discrete-0.2")(type "KiCad")(uri "${KIPRJMOD}/hellen-one/modules/vr-discrete/0.2/vr-discrete.kicad_sym")(options "")(descr "Hellen One VR discrete"))
+  (lib (name "output-0.3")(type "KiCad")(uri "${KIPRJMOD}/hellen-one/modules/output/0.3/output.kicad_sym")(options "")(descr "Hellen One output module"))
+  (lib (name "mcz33810-0.1")(type "KiCad")(uri "${KIPRJMOD}/hellen-one/modules/mcz33810/0.1/mcz33810.kicad_sym")(options "")(descr "Hellen One injector/ignition driver"))
+  (lib (name "can-0.1")(type "KiCad")(uri "${KIPRJMOD}/hellen-one/modules/can/0.1/can.kicad_sym")(options "")(descr "Hellen One CAN"))
+  (lib (name "lin-0.1")(type "KiCad")(uri "${KIPRJMOD}/hellen-one/modules/lin/0.1/lin.kicad_sym")(options "")(descr "Hellen One LIN"))
+  (lib (name "hpe-mini-local")(type "KiCad")(uri "${KIPRJMOD}/hpe-mini.kicad_sym")(options "")(descr "Local symbols"))
+)
